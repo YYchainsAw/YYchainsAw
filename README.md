@@ -56,11 +56,11 @@ A Python companion service for AesirWarden, exploring NPC dialogue, memory and b
 </td>
 <td width="50%" valign="top">
 
-**[2D RPG Demo](https://github.com/YYchainsAw/2D-RPG-250.01)** · Gameplay Programming
+**[QingLian / 轻练](https://github.com/YYchainsAw/QingLian-MyFitnessApp-SpringBoot)** · Fitness & Social App
 
-A Unity 2D action game demo featuring player movement, combat, enemy state machines, and parallax backgrounds.
+A fitness and social app backend with workout data, social features, and RESTful APIs, built as a Tencent Elite Class project.
 
-`Unity` `C#` `2D Action` `State Machines`
+`Java` `Spring Boot` `PostgreSQL` `MyBatis Plus`
 
 </td>
 </tr>
@@ -73,6 +73,11 @@ A Unity 2D action game demo featuring player movement, combat, enemy state machi
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-DC382D?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
