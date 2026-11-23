@@ -36,11 +36,11 @@ A third-person combat prototype exploring whether a reinforcement-learning Boss 
 </td>
 <td width="50%" valign="top">
 
-**[Moth Effect / 飞蛾效应](https://github.com/YYchainsAw/MothEffect)** · Game Development
+**[Flesh of Theseus / 忒修斯之人](https://github.com/YYchainsAw/flesh-of-theseus-source)** · Game Jam
 
-A magicpunk third-person shooter in development for TapTap Game Jam 2026. Pick up, throw, and activate devices to create emergent chain reactions on the battlefield.
+A 2D point-and-click puzzle game shortlisted for the on-site demo at Xueyuan Road Game Jam 2026. Explore an enclosed space, collect and equip body parts to gain new abilities, solve puzzles, and discover different endings.
 
-`Unreal Engine` `C++` `Blueprints` `Game Jam`
+`Unity` `C#` `2D` `Game Jam`
 
 </td>
 </tr>
